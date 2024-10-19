@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avani Maletha</h1>
-<h3 align="center">A passionate about creating websites ,competitive programing ,designing and working on Cloud</h3>
+<h3 align="center">I'm passionate about creating websites ,competitive programing ,designing and working on Cloud</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanimaletha&label=Profile%20views&color=0e75b6&style=flat" alt="avanimaletha" /> </p>
